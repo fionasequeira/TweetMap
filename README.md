@@ -36,4 +36,4 @@ Open the Bitnami Application
 
 #### Setting up 
 
-- Open a browser and enter - http://localhost:8888/webapp/app/home.php
+- Open a browser and enter - http://localhost:8888/TweetMap/app
